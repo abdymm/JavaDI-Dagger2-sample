@@ -24,7 +24,7 @@ To run unit test, run this
 
 *Test Result* 
 
-![Test_result_DI](https://camo.githubusercontent.com/9172c7b3b586bb8599d25e0275b61a1d54e7a2ed/687474703a2f2f672e7265636f726469742e636f2f4c3573656c67376149762e676966)
+![Test_result_DI](https://github.com/abdymm/JavaDI-Dagger2-sample/blob/master/art/testresult.png)
 
 
 ##Task checking
