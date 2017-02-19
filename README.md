@@ -1,6 +1,9 @@
 # Java with Dagger2 
-Sample java code with dagger
+Sample Dependency Injection in java with dagger2.
 
+More details about dependency injection hit this [Dagger Slides](https://docs.google.com/presentation/d/1fby5VeGU9CN8zjw4lAb2QPPsKRxx6mSwCe9q7ECNSJQ/pub?start=false&loop=false&delayms=3000&slide=id.p)
+
+ and more detail about this project [Tulisan](http://blog.abdymalikmulky.com/)
  
 
 ## This project uses :
