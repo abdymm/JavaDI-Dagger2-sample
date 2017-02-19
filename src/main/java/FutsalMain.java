@@ -7,10 +7,7 @@ public class FutsalMain{
   @Inject
   Player player;
 
-  public void main(){
-    team.setName("Kendari FC");
-    team.setDesc("PS Kendari (singkatan dari Persatuan Sepak Bola Kendari) adalah sebuah klub sepak bola Indonesia yang berbasis di Kendari. PS Kendari saat ini berlaga di Divisi Tiga Liga Indonesia.");
-    System.out.print(team.getName());
-    System.out.print(team.getDesc());
+  public static void main(String[] args){
+    System.out.print("Sample Dagger2 Implementation on Java");
   }
 }
